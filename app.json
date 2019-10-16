@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "raceday",
+    "slug": "raceday",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.1",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
